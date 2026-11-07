@@ -2,7 +2,7 @@
 
 ### A Sustainability Learning & Carbon Awareness Platform
 
-Kid-Labs is an extension of the MyCarbonCredit initiative, designed to promote sustainability awareness, carbon literacy, and climate-conscious behaviour through interactive quizzes, learning experiences, and analytics.
+Kid-Labs is designed to promote sustainability awareness, carbon literacy, and climate-conscious behaviour through interactive quizzes, learning experiences, and analytics.
 
 Designed to support multiple audience categories across kids and young adults.
 
